@@ -1,4 +1,4 @@
-# Deep-Convolutional-Generative-Adversarial-Networs
+# Deep-Convolutional-Generative-Adversarial-Networks
 Implementation of Deep Convolutional GANs in TensorFlow
 
 Implementing the paper [Unsupervised Representationa Learning with Deep Convolutional Generative Adversarial Networks in TensorFlow ](https://arxiv.org/pdf/1511.06434.pdf) using TensorFlow. 
